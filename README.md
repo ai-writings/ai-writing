@@ -1,6 +1,6 @@
 # AI 写作 工具推荐：AI 写作论文、小红书、小说、文案创作
 
->更新时间: 2025-03-16
+>更新时间: 2025-05-19
 >
 > **作者：ai-writings**
 
@@ -24,8 +24,8 @@ AI写作工具还在不断进化。随着技术的进步和训练数据的扩展
 
 | 网站地址                                | 支持功能                                           |
 | --------------------------------------- | -------------------------------------------------- |
-| [yixiaai](https://www.yixiaai.com)      | 支持GPT4.0、GPT o1、Grok 3,Claude、AI绘画、大量写作助手                        |
-| [chat.lify](https://chat.lify.vip)      | 支持GPT4.0、GPT4.0 turbo、GPT o1、AI PPT、插件     |
+| [XSimple](https://xsimplechat.com)      | 支持GPT4.0、GPT o1、Grok 3,Claude、AI绘画、大量写作助手                        |
+| [chat.lify](https://chat.lanjing.pro)      | 支持GPT4.0、GPT4.0 turbo、GPT o1、AI PPT、插件     |
 | [写一下AI](https://xie.yixia.ai) | 支持GPT模型、专注AI写作                                 |
 
 ## **AI写作工具的应用领域**
